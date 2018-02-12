@@ -68,7 +68,7 @@ That is an interesting video, I'd provided link in description. He further expla
 
 So he probably gave same argument like the one I gave for CMS. A general purpose framework can get the job done but it also include so many thing, that we never need in our project but still pay price in terms of CPU cycle and remember, CPU on server is very costly.
 
-Till last year, I was suggesting Laravel for small and mid-level projects. Laravel is another PHP framework but with much smaller footprint then Symfony 2 and 3. You can see my that video titled [Selecting PHP Framework for your next project (2017)](https://www.youtube.com/watch?v=U7rR3ZobH4k) through link given in description.
+Till last year, I was suggesting Laravel for small and mid-level projects. Laravel is another PHP framework but with much smaller footprint then Symfony 2 and 3. You can see my that video titled [Selecting PHP Framework for your next project (2017)](https://www.youtube.com/watch?v=U7rR3ZobH4k) through link given in description but now even I feel it is outdated with Symfony 4.
 
 ### Then, Why Symfony 4?
 
