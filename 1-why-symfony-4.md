@@ -25,8 +25,6 @@ Coming to this video, in this section or first video, we are trying to answer fo
 - Why PHP (vs other languages)
 - Why use a framework (vs CMS)?
 - Why Symfony 4?
-- What is the advantages and disadvantages of symfony 4?
-- Under what circumstances, I do not recommend using Symfony?
 
 ### First question - Why PHP?
 
@@ -73,3 +71,13 @@ Till last year, I was suggesting Laravel for small and mid-level projects. Larav
 ### Then, Why Symfony 4?
 
 How symfony 4 changed all that. Well, symfony 4 is very minimal framework, so minimal, that it have less then 20 files when installed (except vendor). It is much lower then even micro frameworks. From there, we add things which we need to solve our specific problem.
+
+When we first install symfony 4, it is just a routing system. After that, we add what we need according to our application. As a result, our framework, even though third party components, contains just what we need. Again, these third party components are also generic, but at the same time, they are open source and contributed or checked by many developers.
+
+## Time to get our hands dirty
+
+IT is enough and I guess you agree, at least at theoritical level, why symfony 4 might be a good framework for you.
+
+Still, I always suggest to not to believe on someone else, always get your hands dirty, try the things yourself and decide if given framework is really good for your application? So it is time to start writing some code and we will be doing that in next video. If you are looking this video on youtube, check the description for link to next video or you may check it on kapilsharma.info or phpreboot.com to get whole video series in order.
+
+Last but not least, I would like to request you to subscribe my youtube channel and press the bell icon so that you can get updated about availability of my new videos and it will also encourage me to keep posting vvideos like that and on many other technical topics.
